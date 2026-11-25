@@ -1,0 +1,110 @@
+﻿01. [开启] NGC新武将合集CA底层卡顿优化-排序必须为第一（封面上面）不然效果大打折扣
+    ngc_campaign_ui_lag_reducer.pack
+02. [开启] 新武将合集封面-武将合集/cover for NGC
+    @fengmian.pack
+03. [开启] 大结集 ： 核心个体 1.2.2
+    thegathering_core_object.pack
+04. [开启] 额外武器模型和特效包-武将合集/More weapon models-for NGC
+    @xinwuqi.pack
+05. [开启] 武将合集非官方立绘——甄姬立绘修改
+    wuhuozhenji.pack
+06. [开启] 势力文化国号旗帜郡名官职头衔文本大修改（遍地诸侯王）-GC-适配其他mod兼容版
+    shiliwenhuagctyb.pack
+07. [开启] 武将合集非官方立绘——大小乔立绘修改
+    wuhuodaxiaoqiao.pack
+08. [开启] 武将合集-派系解锁/NGC Faction Unlock
+    ngc_faction_unlock.pack
+09. [开启] 武将合集-军政mod/War and Diplomacy-For NGC
+    ngcwar.pack
+10. [开启] 新武将合集军政配件 - 较清楚的跨派系招募提示
+    recruit.pack
+11. [开启] 势力文化国号旗帜郡名官职头衔文本大修改（遍地诸侯王）-GC-新武将合集配件
+    shiliwenhuagc.pack
+12. [开启] 玩家抓捕率加成整合AI不处决将领-武将合集/Increase player's capture rate + ai does not execute generals-for NGC
+    capture_new.pack
+13. [开启] NGC新武将合集人物生平
+    ngc_character_bio.pack
+14. [开启] 合集专用桃园家谱/Peach Garden Family Tree
+    taoyuanfamilytree.pack
+15. [开启] 吕布开局完成张辽无双猛士
+    lu_bu_finished_zhang_liao.pack
+16. [开启] 名将不老死-武将合集/Heros Never Die-for NGC
+    nodeath.pack
+17. [关闭] 新武将合集非官方配件 - 更换赵云隐藏技能
+    zhao_yun_ex_exchange.pack
+18. [关闭] 新武将合集非官方配件 - 赵统﹑赵广﹑文鸯强化
+    upgrade_zhao_tong.pack
+19. [关闭] 新武将合集非官方配件 - 额外隐藏技（数据已在内文）
+    upgrade_jiang_wei.pack
+20. [开启] 新武将合集非官方配件 - 武将合集专属羁绊技能/组合技
+    couple.pack
+21. [开启] NGC人物属性命名优化
+    ngc_attribute_rename.pack
+22. [开启] 武将合集配件，人物事件立绘/NGC character event portrait
+    ngc_incident_dilemma_event_pictures.pack
+23. [开启] 武将合集军政武将专属兵种特殊旗帜包（遍地诸侯王）-GC-武将合集官方配件
+    gc_flag_bztsqz.pack
+24. [开启] 将领之间勾叉图标变更-新武将合集非官方配件
+    jlzjnox.pack
+25. [开启] 送很多东西-武将合集/gold equipment in round1-for NGC
+    wuqi20.pack
+26. [开启] NGC清理装备
+    ngc_tidy_up.pack
+27. [关闭] (190, 194, 198可用）武将合集任务链/NGC Mission Chain (不兼容更改初始特性的mod)
+    missionchain.pack
+28. [开启] New General Collection/新武将合集
+    wujiangheji.pack
+29. [开启] (适配武将合集2026年6月更新) 战役世界地图及地名重置-武将合集兼容版
+    @overhaulwoldmap_wujiang.pack
+30. [开启] 大幅缓解游戏战役界面移动卡顿问题
+    gc_2k_yy.pack
+31. [开启] 武将合集-彩蛋大众脸立绘增加
+    ngcnewartgen.pack
+32. [开启] 修改「遍体鳞伤」特性的名
+    scarred_trait.pack
+33. [开启] 重置伤残ai玩家通用/Reset Wound AI+player
+    reset_wound_ai.pack
+34. [开启] 埋伏援军进场时间加快/Ambush reinforcement time reduce
+    ambush_reinforcement_time.pack
+35. [开启] 直接解锁头衔
+    @z_fix_titles.pack
+36. [开启] 无法通过的关隘
+    @z_impassable_gatepass.pack
+37. [开启] 月旦评3.0（刷特性MOD）
+    yuedan_ping_2.0.pack
+38. [开启] 卧龙方天画戟-wl_fangtian
+    wl_fangtian.pack
+39. [开启] 卧龙孙权-WoLong_Sun_Quan
+    wolong_sun_quan.pack
+40. [开启] 吕玲绮美化-lv_lingqi_reskin
+    llq.pack
+41. [开启] 卧龙赤兔-WoLong_Chi_Tu
+    wolong_chitu.pack
+42. [开启] 卧龙张辽-WoLong_Zhang_Liao
+    wolong_zhang_liao.pack
+43. [开启] 小乔美化 -zdwj_xiaoqiao
+    zdwj_xiaoqiao.pack
+44. [开启] 更好的战场镜头
+    @zbattlecameras.pack
+45. [开启] 战役地图微调
+    !!!map_test_z.pack
+46. [开启] 战象攻城修复
+    @elephant_gate_fix.pack
+47. [开启] 资源加载bug修复
+    @z_alex_negcache.pack
+48. [开启] 追逃修复
+    @z_alex_pursuit.pack
+49. [开启] 远程索敌修复
+    @z_fresh_ranged.pack
+50. [开启] 优化阵型逻辑
+    @z_shieldwall_rebuilt.pack
+51. [开启] 阿提拉处决动作拓展｜步战篇 / Attila Executions — Infantry (matched combat)
+    attila_executions.pack
+52. [开启] 阿提拉非致命对打拓展 ｜步战篇 / Attila Non-lethal Combat (matched combat)
+    attila_nonlethal.pack
+53. [开启] 法老处决与非致命对打拓展 / Pharaoh Executions & Non-lethal Combat (matched combact)
+    pharaoh_combat.pack
+54. [开启] 法老夸张动作拓展 / Pharaoh Exaggerated Combat
+    pharaoh_exaggerated_combat.pack
+55. [开启] 疲劳影响显示在面板中
+    @z_fatigue_stats.pack
